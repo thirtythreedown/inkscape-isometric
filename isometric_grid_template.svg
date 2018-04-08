@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="80.283617"
-     inkscape:cy="52.948332"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-818.18432"
+     inkscape:cy="695.79522"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -63,9 +63,9 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:label="Palette">
     <path
        style="fill:#b3b3b3;fill-rule:evenodd;stroke:none;stroke-width:0.28200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -411.36206,284.5 v -50 l 21.65064,12.5 v 50 z"
